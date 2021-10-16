@@ -1,4 +1,5 @@
 # sitePortfolio
- Criação de um site de portfolio
+ Criação de um site de portfólio
 
-Testando o gitHub.
+Neste repositório irei criar um site de portfólio
+
